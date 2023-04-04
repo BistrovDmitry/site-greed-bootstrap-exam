@@ -1,0 +1,24 @@
+
+.first-block {
+  position: relative;
+  display: grid;
+}
+
+.navbar{
+  display: flex;
+  flex-direction:row;
+  justify-content: flex-start;
+  align-self: flex-start;
+  justify-self: center;
+}
+.nav-item{
+  margin-right: 63px;
+  font-family: 'Open Sans Condensed';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 25px;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #FFFFFF;
+}

@@ -1,0 +1,19 @@
+.first-block{
+    background-image: url("/img/Backgrund.png");
+    background-repeat: no-repeat;
+    background-position:50%;
+
+}
+.first-block-content-1{
+    width: 540PX;
+    height: 300PX;
+    
+    text-align: start;
+
+    display: flex;
+    flex-direction:column;
+    justify-content: flex-start;
+    align-self: start;
+    justify-self: center;
+    color: wheat;
+}
